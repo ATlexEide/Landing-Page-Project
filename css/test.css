@@ -1,0 +1,9 @@
+body,
+html {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 100px;
+    height: 100%;
+}
